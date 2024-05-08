@@ -1,0 +1,12 @@
+nav a {
+    letter-spacing: 1px;
+    color: blue;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 10px;
+}
+
+nav a:hover {
+    color: red;
+    transition: ease-in-out .3s;
+}

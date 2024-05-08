@@ -1,0 +1,39 @@
+/* Styles for header */
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+  }
+  
+  header h1 {
+    margin-bottom: 10px;
+  }
+  
+  header p {
+    margin-bottom: 20px;
+  }
+  
+  /* Styles for call-to-action buttons */
+  .cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+nav a {
+    letter-spacing: 1px;
+    color: blue;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 10px;
+}
+
+nav a:hover {
+    color: red;
+    transition: ease-in-out .3s;
+}
+  
